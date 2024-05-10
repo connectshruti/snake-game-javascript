@@ -1,0 +1,7 @@
+body{
+    text-align:center;
+}
+#board{
+    background-color: black;
+    border:5px solid rgba(165, 93, 42, 0.743);
+}
